@@ -1,0 +1,2 @@
+# prestashop
+Zinari Prestashop Plugin
